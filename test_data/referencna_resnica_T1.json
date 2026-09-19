@@ -1,0 +1,64 @@
+{
+  "vloga": "vloga_T1.md",
+  "opis": "Testna vloga T1 - enostanovanjska stavba z nadstrešnico in letno kuhinjo. 7 ocenjevanih napak (3xA, 3xB, 1xC) ter 1 mejni primer (C1), ki se ne šteje v mere.",
+  "pomanjkljivosti": [
+    {
+      "id": "T1-A1",
+      "kategorija": "A",
+      "opis": "Vlogo vlaga pooblaščenec (Arhitekturni biro Načrt d. o. o.), vendar pooblastilo za zastopanje ni priloženo",
+      "lokacija": "Seznam prilog",
+      "pravna_podlaga": "55. člen ZUP (pooblastilo pri zastopanju po pooblaščencu)"
+    },
+    {
+      "id": "T1-A2",
+      "kategorija": "A",
+      "opis": "Predvidena je priključitev na javni vodovod, vendar med prilogami ni mnenja upravljavca vodovodnega omrežja",
+      "lokacija": "Seznam prilog / Priloga 4C",
+      "pravna_podlaga": "46. člen GZ-1 (zahtevi se priložijo mnenja pristojnih mnenjedajalcev); 43. člen GZ-1"
+    },
+    {
+      "id": "T1-A3",
+      "kategorija": "A",
+      "opis": "Predvidena je priključitev na javno kanalizacijo, vendar med prilogami ni mnenja upravljavca kanalizacijskega omrežja",
+      "lokacija": "Seznam prilog / Priloga 4C",
+      "pravna_podlaga": "46. člen GZ-1 (zahtevi se priložijo mnenja pristojnih mnenjedajalcev); 43. člen GZ-1"
+    },
+    {
+      "id": "T1-B1",
+      "kategorija": "B",
+      "opis": "Višina slemena se razlikuje med gradbeno-ureditveno situacijo (+7,20 m) in prerezom A-A (+7,45 m)",
+      "lokacija": "Gradbeno-ureditvena situacija proti Prerezu A-A",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T1-B2",
+      "kategorija": "B",
+      "opis": "Tlorisne dimenzije nadstrešnice se razlikujejo med Prilogo 4B (6,00 x 6,00 m) in tehničnim poročilom (6,00 x 6,45 m)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T1-B3",
+      "kategorija": "B",
+      "opis": "Barva fasade je v Prilogi 4B navedena kot bela, v tehničnem poročilu pa kot bela v kombinaciji s sivo",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T1-C2",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa zaščite in prestavitve infrastrukturnih vodov, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 6. točka - opis zaščite in prestavitev infrastrukturnih vodov)"
+    }
+  ],
+  "mejni_primeri": [
+    {
+      "id": "T1-C1",
+      "kategorija": "C",
+      "opis": "Letna kuhinja (17,5 m2) je razvrščena med enostavne objekte; pravilnost razvrstitve je odvisna od Priloge 1 uredbe za razred CC-SI 12740, ki ni v bazi znanja. Mejni primer - se ne šteje med ocenjevane napake.",
+      "lokacija": "Priloga 4B / klasifikacija",
+      "pravna_podlaga": "Uredba o razvrščanju objektov, Priloga 1 (razred 12740) - ni v bazi znanja"
+    }
+  ]
+}

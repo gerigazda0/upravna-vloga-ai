@@ -1,0 +1,94 @@
+GRADBENI ZAKON (GZ-1). Uradni list RS, št. 199/21, 105/22 – ZZNŠPP, 133/23, 85/24 – ZAID-A, 47/25 – odl. US, 75/25 – GZ-1B.
+35. člen
+(standardizirani opisi del, popisi materialov in opreme)
+Standardizirani opisi del, popisi materialov in opreme v gradbeništvu določajo načine izvedbe, pravila za računanje količin, pravila za obračun opravljenih del, materialov in opreme ter druge ukrepe, ki omogočajo kakovostno in stroškovno učinkovito graditev objektov.
+36. člen
+(tehnične smernice)
+(1) S tehničnimi smernicami za graditev objektov (v nadaljnjem besedilu: tehnične smernice) se za določene vrste objektov natančno opredelijo:
+-        priporočene tehnične rešitve, s katerimi se doseže izpolnjevanje bistvenih zahtev za projektiranje, gradnjo in vzdrževanje objektov,
+-        izbrane ravni oziroma razredi gradbenih proizvodov in materialov, ki se smejo vgrajevati, in način njihove vgradnje,
+-        pravila za klasificiranje in razvrščanje objektov.
+(2) S tehničnimi smernicami se za določene vrste objektov natančno opredelijo tudi priporočene tehnične rešitve, ki se nanašajo na izpolnjevanje drugih zahtev.
+(3) Tehnične smernice iz prvega odstavka tega člena objavi minister na osrednjem spletnem mestu državne uprave.
+(4) Ne glede na prejšnji odstavek tehnične smernice, ki se nanašajo na graditev gradbenih inženirskih objektov, na osrednjem spletnem mestu državne uprave objavijo pristojni ministri, v delovno področje katerih sodi posamezna vrsta gradbenega inženirskega objekta, po predhodnem soglasju ministra.
+(5) Tehnične smernice iz drugega odstavka tega člena na osrednjem spletnem mestu državne uprave objavijo pristojni ministri, v katerih delovno področje sodijo druge zahteve, po predhodnem soglasju ministra.
+(6) Obliko tehničnih smernic predpiše minister.
+37. člen
+(drugi normativni dokumenti)
+Drugi normativni dokumenti so dokumenti, ki določajo pravila, usmeritve ali značilnosti za dejavnosti ali njihove rezultate. Če predpis ne določa drugače, se drugi normativni dokumenti uporabijo v naslednjem vrstnem redu:
+1.      tehnična smernica za graditev (TSG) in tehnične smernice iz četrtega in petega odstavka prejšnjega člena,
+2.      privzeti evropski standard (SIST EN),
+3.      izvirni slovenski standardizacijski dokument (SIST),
+4.      privzeti mednarodni standard (SIST ISO),
+5.      privzeti tuji standard (na primer SIST DIN) in
+6.      druge javno dostopne tehnične specifikacije.
+
+
+
+42. člen
+(pridobivanje projektnih in drugih pogojev)
+(1) Pristojni mnenjedajalci zagotovijo dostop do informacij, pomembnih za pripravo projektne in druge dokumentacije z njihovega področja, na spletnih straneh, na centraliziran in enostavno dostopen način v prostorskem informacijskem sistemu v skladu z zakonom, ki ureja prostor. Investitor do njih dostopa preko enotne vstopne točke prostorskega informacijskega sistema.
+(2) Investitor lahko pridobi pogoje za izdelavo dokumentacije za pridobitev gradbenega dovoljenja, za izvajanje gradnje in uporabo objekta (v nadaljnjem besedilu: projektni in drugi pogoji), ki jih mnenjedajalec določi v skladu s svojimi pristojnostmi.
+(3) Ne glede na prejšnji odstavek je pridobitev projektnih in drugih pogojev obvezna, če to določa poseben predpis.
+(4) Mnenjedajalec izda projektne in druge pogoje v 15 dneh od prejema zahteve za izdajo projektnih in drugih pogojev, razen če je v posebnem zakonu določen daljši rok, vendar ne več kot 30 dni od prejema zahteve za izdajo projektnih in drugih pogojev. Ne glede na prejšnji stavek mnenjedajalcu ni treba izdati projektnih in drugih pogojev, če so podatki iz drugega odstavka tega člena enaki javno objavljenim informacijam v skladu s prvim odstavkom tega člena, pri čemer mnenjedajalec investitorja obvesti o mestu objave teh informacij.
+(5) Projektni pogoji morajo biti jasni, strokovno in pravno utemeljeni ter obrazloženi in morajo vključevati tudi podatke, potrebne za pripravo projektne dokumentacije in morebitne pogoje za izvedbo gradnje in uporabo objekta. V nasprotnem primeru lahko investitor zahteva njihovo dopolnitev, na katero mnenjedajalec odgovori v 15 dneh.
+(6) Če mnenjedajalec na podlagi zahteve za izdajo projektnih in drugih pogojev ugotovi, da je nameravana gradnja na podlagi predpisov iz njegove pristojnosti sprejemljiva in da projektni in drugi pogoji niso potrebni, se zahteva za izdajo projektnih in drugih pogojev šteje kot zahteva za izdajo mnenja, mnenjedajalec pa da mnenje, da se z nameravano gradnjo strinja.
+(7) Če mnenjedajalec na podlagi zahteve za izdajo projektnih in drugih pogojev ugotovi, da nameravana gradnja na podlagi predpisov iz njegove pristojnosti ni dopustna ali mogoča, se zahteva za izdajo projektnih in drugih pogojev šteje kot zahteva za izdajo mnenja, mnenjedajalec pa da mnenje, da se z nameravano gradnjo ne strinja.
+(8) Projektni in drugi pogoji niso upravni akti.
+43. člen
+(pridobivanje mnenj)
+(1) Investitor pred vložitvijo zahteve za izdajo gradbenega dovoljenja pridobi mnenja pristojnih mnenjedajalcev.
+(2) Mnenje se pridobi, če je nameravana gradnja takšna, da je zanjo v skladu s predpisi treba pridobiti mnenje pristojnega mnenjedajalca in je pristojnost mnenjedajalca evidentirana v zbirki območij pristojnosti v prostorskem informacijskem sistemu v skladu z zakonom, ki ureja prostor.
+(3) Za objekt, za katerega izdajo gradbenega dovoljenja je pristojno ministrstvo in je predviden na območju, za katero je sprejet državni prostorski izvedbeni akt, se mnenje ministrstva, pristojnega za prostor, ne pridobi, temveč se o tem odloči v postopku izdaje gradbenega dovoljenja.
+(4) V mnenju se mnenjedajalec opredeli glede skladnosti dokumentacije za pridobitev gradbenega dovoljenja s predpisi iz svoje pristojnosti. Mnenje mora jasno izražati stališča mnenjedajalca in mora biti strokovno in pravno utemeljeno ter obrazloženo. V mnenje se lahko vključijo tudi podatki oziroma pogoji za izvedbo gradnje in uporabo objekta.
+(5) Mnenjedajalec mora mnenje podati v 30 dneh od prejema zahteve za izdajo mnenja. Rok za izdajo mnenja se lahko podaljša na zahtevo investitorja.
+(6) Če se dokumentacija za pridobitev gradbenega dovoljenja spremeni tako, da to lahko vpliva na izdana mnenja, mora projektant s spremembo seznaniti posamezne mnenjedajalce in po potrebi pridobiti njihova nova mnenja v delu, v katerem se je projektna rešitev spremenila, spremembe pa morajo biti opisane v dokumentaciji.
+(7) Če ima mnenje ne glede na določbe posebnih predpisov določen čas veljavnosti, ta preneha teči, ko investitor vloži zahtevo za izdajo gradbenega dovoljenja. Če je zahteva za izdajo gradbenega dovoljenja zavrnjena, velja čas veljavnosti, naveden v mnenju.
+(8) Če iz mnenja o skladnosti s prostorskim aktom, izdanim v skladu z zakonom, ki ureja prostor, izhaja, da projektna dokumentacija za pridobitev mnenj in gradbenega dovoljenja ni skladna s predpisi mnenjedajalca, in je pooblaščeni strokovnjak kot vodja projektiranja potrdil pravilnost projektne dokumentacije v skladu s sedmim odstavkom 39. člena tega zakona, mnenjedajalec svoje mnenje v vednost predloži pristojni poklicni zbornici, katere član je pooblaščeni strokovnjak.
+(9) Podrobnejšo vsebino in obliko mnenja predpiše minister.
+
+
+Tretji del: PROJEKTIRANJE 
+39. člen 
+(projektna in druga dokumentacija) 
+(1) Projektna in druga dokumentacija ali njeni posamezni deli so namenjeni pridobitvi pogojev, mnenj, gradbenega dovoljenja, prijavi začetka gradnje, izvedbi gradnje, pridobitvi uporabnega dovoljenja in evidentiranju ter uporabi objekta.
+(2) Glede na namen uporabe se projektna dokumentacija razvršča na:
+– projektno dokumentacijo za pridobitev projektnih in drugih pogojev,
+– projektno dokumentacijo za pridobitev mnenj in gradbenega dovoljenja,
+– projektno dokumentacijo za izvedbo gradnje,
+– projektno dokumentacijo za odstranitev,
+– projektno dokumentacijo izvedenih del.
+(3) Druga dokumentacija se razvršča na:
+– dokumentacijo za pridobitev gradbenega dovoljenja za nezahtevne objekte,
+– dokumentacijo za pridobitev gradbenega dovoljenja za spremembo namembnosti,
+– dokazilo o zanesljivosti objekta.
+(4) Projektno dokumentacijo izdela projektant ob upoštevanju naročila investitorja, predpisov in strokovnih pravil glede na namen, vrsto, velikost, zmogljivost, predvidene vplive in druge značilnosti objekta. V njej se po načelih integralnega projektiranja, lahko tudi s pomočjo informacijsko podprtega projektiranja, z arhitekturnimi, gradbenotehničnimi, krajinsko-arhitekturnimi in drugimi rešitvami določijo lokacijske, funkcionalne, tehnične in oblikovne značilnosti objekta tako, da ta zagotavlja skladnost objekta s predpisi, ki urejajo bistvene in druge zahteve, skladnost objekta s prostorskimi akti in predpisi o urejanju prostora in skladnost objekta s predpisi, ki so podlaga za izdajo mnenj, ter omogoča evidentiranje objekta.
+(5) Projektna dokumentacija za pridobitev projektnih in drugih pogojev ter projektna dokumentacija za pridobitev mnenj in gradbenega dovoljenja vsebuje zbirni prikaz ter arhitekturne, gradbenotehnične oziroma krajinsko arhitekturne prikaze, glede na namen objekta.
+(6) V izdelavo projektne dokumentacije projektant vključi tiste pooblaščene arhitekte, pooblaščene krajinske arhitekte in pooblaščene inženirje s področja gradbeništva, elektrotehnike, strojništva, tehnologije, požarne varnosti, geotehnologije in rudarstva, geodezije ali prometnega inženirstva ter strokovnjake z drugih strokovnih področij, katerih strokovne rešitve so glede na namen in zahtevnost objekta ter namen izdelave projektne dokumentacije potrebne. V projektni dokumentaciji se navedejo osebna imena ter identifikacijske številke vseh pooblaščenih strokovnjakov ter osebna imena drugih strokovnjakov, ki so sodelovali pri izdelavi projektne dokumentacije.
+(7) Projektant in vodja projektiranja s podpisom projektne dokumentacije v vsaki fazi načrtovalskega procesa jamčita za njeno pravilnost, upoštevaje raven obdelave.
+(8) Projektna in druga dokumentacija mora biti izdelana v slovenskem jeziku, razen posameznih vsebin in delov, ki se izdelujejo s pomočjo programske opreme za izračun in izris podatkov, pri čemer je treba te podatke reprezentativno povzeti in razložiti v slovenskem jeziku tako, da so strokovno razumljive.
+(9) Projektna dokumentacija za objekte iz četrtega odstavka 9. člena tega zakona se izdela s pomočjo informacijsko podprtega projektiranja (BIM orodja).
+(10) Podrobnejšo vsebino in obliko dokumentacije za zahtevne, manj zahtevne in nezahtevne objekte, ki se uporablja za posamezne vrste objektov, predpiše minister.
+(11) Pristojni poklicni zbornici po predhodnem soglasju ministra s pravili stroke uredita tehnična vprašanja, povezana s pripravo projektne dokumentacije. Pravila stroke pristojni poklicni zbornici objavita na svojih spletnih straneh. 
+
+ II. poglavje: Postopek izdaje gradbenega dovoljenja
+46. člen 
+(zahteva za izdajo gradbenega dovoljenja) 
+(1) Investitor vloži zahtevo za izdajo gradbenega dovoljenja, ki se ji priložijo:
+1. dokumentacija za pridobitev gradbenega dovoljenja za:
+– gradnjo zahtevnega ali manj zahtevnega objekta, razen za spremembo namembnosti: projektna dokumentacija za pridobitev mnenj in gradbenega dovoljenja, katere sestavni del je tudi izjava, iz katere izhaja, da so na ravni obdelave dokumentacije za pridobitev gradbenega dovoljenja izpolnjene zahteve iz predpisov s področja graditve,
+– gradnjo nezahtevnega objekta: dokumentacija za pridobitev gradbenega dovoljenja za nezahtevni objekt,
+– spremembo namembnosti: dokumentacija za pridobitev gradbenega dovoljenja za spremembo namembnosti;
+2. mnenja pristojnih mnenjedajalcev, razen če je nameravana gradnja na območju prostorskega izvedbenega akta, h kateremu so mnenjedajalci kot nosilci urejanja prostora dali vsebinsko ustrezno mnenje in se v njem izrekli, da pridobivanje mnenj v postopku izdaje gradbenega dovoljenja ni potrebno, ali dokazilo o tem, da mnenje ni bilo izdano v roku iz petega odstavka 43. člena tega zakona;
+3. dokazila o pravici graditi, če investitor v zemljiški knjigi nima vpisane lastninske ali druge stvarne pravice na nepremičninah, na katerih se bo izvajala gradnja:
+– notarsko overjeno pogodbo o pridobitvi te pravice, ki je predlagana za vpis v zemljiško knjigo,
+– sodno ali upravno odločbo, ki mu omogoča gradnjo oziroma izvajanje del,
+– sklep o določitvi investitorja kot upravljavca nepremičnine, če gre za nepremičnino v lasti njegovega ustanovitelja, razen če je iz uradnih evidenc razvidno, da je investitor zakoniti upravljavec, ali
+– drugo listino, ki v skladu z zakonom omogoča gradnjo oziroma izvajanje del;
+4. sklep ministrstva, pristojnega za okolje, izdanega v predhodnem postopku glede presoje vplivov na okolje, v skladu s predpisi, ki urejajo varstvo okolja, če je predhodni postopek predpisan.
+(2) Pri nameravani gradnji objektov gospodarske javne infrastrukture ali priključkov nanjo, ki se izvajajo v cestnem telesu javne ali nekategorizirane ceste, ki so javno dobro oziroma v občinski ali državni lasti, se ne glede na določbe tega člena za dokazilo iz 3. točke prejšnjega odstavka šteje soglasje upravljavca javne ali nekategorizirane ceste za izvedbo gradnje v cestnem telesu.
+(3) Na nepremičninah, na katerih so predvidene začasne ureditve za potrebe gradnje, se za dokazilo iz 3. točke prvega odstavka tega člena šteje tudi pisno soglasje imetnika stvarne pravice, ki omogoča takšno ureditev na tuji nepremičnini.
+(4) Šteje se, da je zahteva za izdajo gradbenega dovoljenja popolna, če so priloženi dokumenti iz prvega odstavka tega člena. Šteje se, da je zahteva za izdajo gradbenega dovoljenja za objekte prometne infrastrukture in cevovode, elektronska komunikacijska omrežja in elektroenergetske vode popolna, če so priloženi dokumenti iz 1., 2. in 4. točke prvega odstavka tega člena.
+(5) V primerih izdaje gradbenega dovoljenja za objekt iz tretjega odstavka 54. člena tega zakona se dokumentacija za pridobitev gradbenega dovoljenja pripravi v skladu s 1. točko prvega odstavka tega člena in prvim odstavkom 144. člena tega zakona.
+(6) Če je zahteva za izdajo gradbenega dovoljenja nepopolna, upravni organ najpozneje v 15 dneh od njenega prejema zahteva dopolnitev.
+(7) Če upravni organ ugotovi, da so izpolnjeni vsi pogoji za izdajo gradbenega dovoljenja za objekte iz četrtega odstavka tega člena, razen pogoja iz 5. točke prvega odstavka 54. člena tega zakona, investitorja pisno pozove, da v določenem roku predloži dokazila o izpolnitvi tega pogoja. 

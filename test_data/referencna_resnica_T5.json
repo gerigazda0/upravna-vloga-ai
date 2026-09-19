@@ -1,0 +1,56 @@
+{
+  "vloga": "vloga_T5.md",
+  "opis": "Testna vloga T5 - manjsa trgovska stavba. 7 ocenjevanih napak (2xA, 3xB, 2xC).",
+  "pomanjkljivosti": [
+    {
+      "id": "T5-A1",
+      "kategorija": "A",
+      "opis": "Vlogo vlaga pooblaščenec (Projektivni biro Sever d. o. o.), vendar pooblastilo za zastopanje ni priloženo",
+      "lokacija": "Seznam prilog / podatki o investitorju",
+      "pravna_podlaga": "55. člen ZUP (pooblastilo pri zastopanju po pooblaščencu)"
+    },
+    {
+      "id": "T5-A2",
+      "kategorija": "A",
+      "opis": "V dokumentaciji ni izjave projektanta in vodje projektiranja, ki je obvezna sestavina projektne dokumentacije",
+      "lokacija": "Seznam prilog / vodilna mapa",
+      "pravna_podlaga": "7. člen Pravilnika (prvi odstavek - izjava projektanta in vodje projektiranja, obrazec Priloge 2A)"
+    },
+    {
+      "id": "T5-B1",
+      "kategorija": "B",
+      "opis": "Odmik od vzhodne parcelne meje se razlikuje med tehničnim poročilom (5,00 m) in situacijo obstoječega stanja (3,50 m)",
+      "lokacija": "Tehnično poročilo proti situaciji",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T5-B2",
+      "kategorija": "B",
+      "opis": "Število parkirnih mest se razlikuje med Prilogo 4B (12) in tehničnim poročilom (14)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T5-B3",
+      "kategorija": "B",
+      "opis": "Naklon strehe se razlikuje med Prilogo 4B in tehničnim poročilom (8 stopinj) ter prerezom A-A (10 stopinj)",
+      "lokacija": "Priloga 4B in tehnično poročilo proti prerezu A-A",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T5-C1",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa zaščite in prestavitve infrastrukturnih vodov, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 6. točka - opis zaščite in prestavitev infrastrukturnih vodov)"
+    },
+    {
+      "id": "T5-C2",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa priključevanja na infrastrukturo za gasilno vodo oziroma zajema požarne vode, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 7. točka - opis priključevanja na infrastrukturo za gasilno vodo)"
+    }
+  ],
+  "mejni_primeri": []
+}

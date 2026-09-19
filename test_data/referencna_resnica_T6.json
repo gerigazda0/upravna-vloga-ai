@@ -1,0 +1,56 @@
+{
+  "vloga": "vloga_T6.md",
+  "opis": "Testna vloga T6 - prizidava k obstojeci enostanovanjski stavbi. 7 ocenjevanih napak (2xA, 3xB, 2xC).",
+  "pomanjkljivosti": [
+    {
+      "id": "T6-A1",
+      "kategorija": "A",
+      "opis": "Med prilogami ni situacije obstoječega stanja, ki je obvezen lokacijski prikaz projektne dokumentacije; priložena je le gradbeno-ureditvena situacija",
+      "lokacija": "Seznam prilog",
+      "pravna_podlaga": "7. člen Pravilnika (četrti odstavek - lokacijski prikazi vključujejo situacijo obstoječega stanja)"
+    },
+    {
+      "id": "T6-A2",
+      "kategorija": "A",
+      "opis": "V dokumentaciji ni izjave projektanta in vodje projektiranja, ki je obvezna sestavina projektne dokumentacije",
+      "lokacija": "Seznam prilog / vodilna mapa",
+      "pravna_podlaga": "7. člen Pravilnika (prvi odstavek - izjava projektanta in vodje projektiranja, obrazec Priloge 2A)"
+    },
+    {
+      "id": "T6-B1",
+      "kategorija": "B",
+      "opis": "Višina slemena prizidave se razlikuje med Prilogo 4B (+3,80 m) in prerezom A-A (+4,10 m)",
+      "lokacija": "Priloga 4B proti prerezu A-A",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T6-B2",
+      "kategorija": "B",
+      "opis": "Tlorisne dimenzije prizidave se razlikujejo med Prilogo 4B (7,50 x 6,00 m) in tehničnim poročilom (7,50 x 6,50 m)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T6-B3",
+      "kategorija": "B",
+      "opis": "Bruto tlorisna površina objekta po prizidavi se razlikuje med Prilogo 4B (145 m2) in tehničnim poročilom oziroma situacijo (140 m2)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T6-C1",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa vplivov gradnje (vibracije, hrup, prašenje, osvetlitev) na neposredno okolico, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 3. točka - opis vplivov gradnje na neposredno okolico)"
+    },
+    {
+      "id": "T6-C2",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa zaščite in prestavitve infrastrukturnih vodov, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 6. točka - opis zaščite in prestavitev infrastrukturnih vodov)"
+    }
+  ],
+  "mejni_primeri": []
+}

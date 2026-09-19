@@ -1,0 +1,77 @@
+PRAVILNIK O PROJEKTNI IN DRUGI DOKUMENTACIJI TER OBRAZCIH PRI GRADITVI OBJEKTOV. Uradni list RS, št. 30/23.
+7. člen 
+(vsebina zbirnega prikaza projektne dokumentacije za pridobitev mnenj in gradbenega dovoljenja) 
+(1) Obrazci zbirnega prikaza vsebujejo:
+– naslovno stran projektne dokumentacije, kot je določena z obrazcem iz Priloge 1A tega pravilnika;
+– podatke o udeleženih strokovnjakih pri projektiranju, ki se navedejo na obrazcu iz Priloge 1B tega pravilnika;
+– izjavo projektanta in vodje projektiranja, ki se izdela na obrazcu iz Priloge 2A, ki je sestavni del tega pravilnika;
+– splošne podatke o gradnji, ki se navedejo na obrazcu iz Priloge 4A tega pravilnika;
+– podatke o objektih, ki se navedejo na obrazcu iz Priloge 4B, ki je sestavni del tega pravilnika;
+– podatke o zemljiščih za gradnjo, ki se navedejo na obrazcu iz Priloge 4C, ki je sestavni del tega pravilnika, in
+– podatke za odmero odškodnine zaradi spremembe namembnosti kmetijskega zemljišča na obrazcu iz Priloge 4D, ki je sestavni del tega pravilnika.
+(2) Tehnično poročilo zbirnega prikaza vsebuje:
+1. opis objekta in njegovih značilnosti, pri večnamenskih stavbah tudi shemo tlorisov posameznih funkcionalnih enot enake namembnosti;
+2. opis skladnosti objekta s prostorskimi akti in predpisi o urejanju prostora, vključno z opisom skladnosti glede določitve gradbene parcele;
+3. opis vplivov gradnje (npr. vibracije, hrup, prašenje, osvetlitev) na neposredno okolico;
+4. opis vplivov objekta na mehansko odpornost in stabilnost sosednjih objektov ter zemljišč in na varstvo pred požarom z navedbo odmikov gradnje od parcelnih meja sosednjih zemljišč in od sosednjih objektov;
+5. opis priključevanja na gospodarsko javno infrastrukturo ali opis samooskrbe objekta;
+6. opis zaščite in prestavitev infrastrukturnih vodov;
+7. opis priključevanja na infrastrukturo za gasilno vodo oziroma gradnje objektov za oskrbo z gasilno vodo in opis objektov ali naprav za zajem požarne vode;
+8. izsledke predhodnih raziskav in
+9. druge vsebine, če je tako določeno s predpisi, ki so podlaga za izdajo mnenj, ter z drugimi predpisi, ki urejajo bistvene in druge zahteve.
+(3) Glede na vrsto gradnje ter namen, velikost, zmogljivost, predvidene vplive in druge značilnosti objekta se v tehničnem poročilu navedejo najmanj tisti načrti, s katerimi se bo v fazi izdelave projektne dokumentacije za izvedbo gradnje zagotavljalo izpolnjevanje bistvenih zahtev objekta, ter druge strokovne podlage, ki jih zahtevajo posebni predpisi in jih bo treba izdelati pri nadaljnjem projektiranju.
+(4) Lokacijski prikazi zbirnega prikaza so praviloma izdelani v merilu od 1:200 do 1:500 oziroma pri linijskih gradbeno inženirskih objektih v merilu 1:500 do 1:2 000 in vsebujejo:
+– situacijo obstoječega stanja;
+– gradbeno in ureditveno situacijo in
+– prikaz novih priključkov z mestom priključevanja na omrežje gospodarske javne infrastrukture in odjemnim mestom, prikaz zaščite in prestavitev infrastrukturnih vodov ter prikaz nove gospodarske javne infrastrukture.
+(5) Situacija obstoječega stanja iz prve alineje prejšnjega odstavka se izdela na grafičnem prikazu geodetskega načrta, ki mora poleg podatkov o reliefu, vodah, stavbah, gradbenih inženirskih objektih, rabi zemljišč, rastlinstvu in podatkov o parcelah vsebovati tudi prikaz obstoječih infrastrukturnih vodov (nadzemnih in podzemnih), hidrantov in druge infrastrukture za oskrbo z vodo za gašenje ter podatek o lokacijski natančnosti prikazanih mej parcel. Situacija obstoječega stanja prikazuje tudi:
+– regulacijske črte prostorskega akta, kot so regulacijske linije, gradbene meje ali gradbene linije, enote urejanja prostora in namenske rabe prostora, s prikazom meja prostorskih aktov;
+– varovana, varstvena in ogrožena območja, vodna ter priobalna zemljišča in varovalne pasove infrastrukturnih vodov in
+– podatke o lokacijski natančnosti meja parcel, podatek o tem, katere meje parcel so urejene, in podatke o lokacijski točnosti drugih prikazanih podatkov na geodetskem načrtu.
+(6) Gradbena in ureditvena situacija iz druge alineje četrtega odstavka tega člena se izdela na grafičnem prikazu geodetskega načrta s prikazom podatkov o reliefu, gabaritih stavb in gradbeno inženirskih objektov in parcelah. Gradbena in ureditvena situacija se izdela tako, da so posamezni prikazi jasno vidni. Gradbena in ureditvena situacija glede nameravane gradnje prikazuje:
+1. pregledno situacijo;
+2. gradbeno parcelo z navedbo njene površine in prikazanimi sestavinami:
+– ena ali več parcel,
+– območja stvarne služnosti in
+– območja stavbnih pravic;
+3. projekcijo najbolj izpostavljenih nadzemnih in podzemnih delov objektov na zemljišče (pri stavbah vključno z napušči, nadstreški, balkoni, zunanjimi stopnišči in klančinami) z navedbo njihovih dimenzij in odmikov objektov od sosednjih zemljišč in objektov; prikaz odmikov objektov od sosednjih zemljišč ali objektov ni obvezen, če so ti večji od 10 m oziroma 40 m od zunanjih meja priobalnih zemljišč na vodah 1. reda zunaj območij naselja ali ko je predmet gradnje linijski gradbeno inženirski objekt;
+4. pri stavbah z namenom določanja urbanističnih faktorjev prikaz prekritega dela (FPP) in raščenega dela (FRP), tako da se pri prekritem delu še dodatno prikažejo:
+– površine pod stavbami, kamor spadajo površina pod glavno stavbo in pripadajoči pomožni objekti, ki so stavbe na stiku z zemljiščem;
+– utrjene zunanje površine (FU), kamor spadajo prometne, komunalne in tehnične površine (FU-P) in utrjene bivalne površine (FU-B);
+– zazidano površino;
+5. prostorske ureditve za zagotavljanje požarne varnosti s prikazom: odmikov gradnje od sosednjih zemljišč, površin za neoviran in varen dostop za gašenje, reševanje in evakuacijo, ter s prikazom zagotavljanja gasilne vode in naprav za zajem požarne vode;
+6. območje gradbišča in prikaz gradbiščnih cest, ki povezujejo gradbišče s cestami za javni cestni promet;
+7. območje za druge ureditve (npr. nadomestni habitati);
+8. poenostavljen tridimenzionalni prikaz objektov, razen pri linijskih gradbeno inženirskih objektih;
+9. prostorske ureditve za zagotavljanje varnosti plovbe, če gre za objekte z vplivi na varnost plovbe;
+10. ureditev gradbene jame, vključno z zaščito sosednjih objektov in brežin, in
+11. druge značilnosti objektov, s katerimi se dokazuje skladnost s prostorskim aktom in predpisi o urejanju prostora.
+(7) Prikaz novih priključkov z mestom priključevanja na omrežje gospodarske javne infrastrukture in odjemnim mestom, prikaz zaščite in prestavitev infrastrukturnih vodov ter prikaz nove gospodarske javne infrastrukture iz tretje alineje četrtega odstavka tega člena se izdela na grafičnem prikazu geodetskega načrta s prikazom podatkov o reliefu, stavbah, gradbeno inženirskih objektih in parcelah ter prikazuje:
+– zagotavljanje oskrbe s pitno vodo;
+– zagotavljanje oskrbe z energijo (elektrika, plin, vročevod);
+– zagotavljanje odvajanja odpadnih voda vključno s prikazom vertikalnega poteka priključkov;
+– zagotavljanje dostopa do javne poti ali ceste;
+– priključevanje na drugo infrastrukturo;
+– območja zaščite in prestavitev infrastrukturnih vodov z novimi varovalnimi pasovi;
+– novo infrastrukturo za oskrbo z vodo za gašenje in
+– novo gospodarsko javno infrastrukturo.
+(8) Tehnični prikazi zbirnega prikaza so:
+1. za stavbe: arhitekturni prikazi stavb in zunanjih površin praviloma v merilu 1:100 ali 1:200, ki vsebujejo:
+– prikaz arhitekturne zasnove tlorisov vseh etaž in strehe z osnovnimi podatki o velikosti in namenu prostorov ter pripadajočih površin v objektu in zunaj njega;
+– prikaz zunanjih površin;
+– prikaz najmanj dveh karakterističnih prerezov stavbe in
+– prikaz fasad, pri požarno zahtevnih stavbah tudi zahteve glede požarnih lastnosti fasade zaradi omejevanja širjenja požara;
+2. za linijske gradbeno inženirske objekte: gradbenotehnični prikazi objektov in zunanjih površin praviloma v merilu od 1:500 do 1:2.000, ki vsebujejo:
+– prikaz gradbene situacije z zasnovo tlorisov vseh objektov in zunanjih površin in
+– prikaz vertikalnega poteka in karakterističnih prerezov objektov ter
+3. za nelinijske gradbeno inženirske objekte: gradbenotehnični prikazi objektov praviloma v merilu od 1:100 do 1:500, ki vsebujejo:
+– prikaz gradbene situacije z zasnovo tlorisov vseh objektov,
+– prikaz karakterističnih prerezov oziroma profilov objektov,
+– prikaz tehnološke sheme, če gre za proizvodne objekte,
+– poglede in
+– prikaz zunanjih površin;
+4. za objekte odprtega prostora in krajin: arhitekturni ali krajinsko arhitekturni prikazi objektov praviloma v merilu od 1:100 do 1:500, ki vsebujejo:
+– prikaz krajinske zasnove vseh tlorisnih površin krajine in odprtega prostora ter objektov in zunanjih površin in
+– prikaz karakterističnih prerezov oziroma profilov objektov in površin.
+(9) Tehnični prikazi zbirnega prikaza vsebujejo tudi prikaz značilnosti, pomembnih za ugotavljanje skladnosti s predpisi, ki urejajo varstvo kulturne dediščine (npr. materiali, barve, fasade, fotografije lokacije), če gre za objekte na območjih, varovanih v skladu s predpisi, ki urejajo varstvo kulturne dediščine. 
+

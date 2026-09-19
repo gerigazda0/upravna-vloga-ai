@@ -1,0 +1,63 @@
+{
+  "vloga": "vloga_T2.md",
+  "opis": "Testna vloga T2 - enostanovanjska stavba s kletjo. 8 ocenjevanih napak (3xA, 3xB, 2xC).",
+  "pomanjkljivosti": [
+    {
+      "id": "T2-A1",
+      "kategorija": "A",
+      "opis": "Trasa vodovodnega priključka poteka prek sosednje parcele 200/5 v tuji lasti, vendar dokazilo o pravici graditi (soglasje lastnika) za to parcelo ni priloženo; priloženo je le dokazilo za gradbeno parcelo 200/3",
+      "lokacija": "Seznam prilog / Priloga 4C",
+      "pravna_podlaga": "46. člen GZ-1 (3. točka prvega odstavka in tretji odstavek - dokazilo o pravici graditi oziroma soglasje imetnika za gradnjo na tuji nepremičnini)"
+    },
+    {
+      "id": "T2-A2",
+      "kategorija": "A",
+      "opis": "V dokumentaciji ni izjave projektanta in vodje projektiranja, ki je obvezna sestavina projektne dokumentacije za pridobitev mnenj in gradbenega dovoljenja",
+      "lokacija": "Seznam prilog / vodilna mapa",
+      "pravna_podlaga": "7. člen Pravilnika (prvi odstavek - izjava projektanta in vodje projektiranja, obrazec Priloge 2A)"
+    },
+    {
+      "id": "T2-A3",
+      "kategorija": "A",
+      "opis": "Predvidena je priključitev na javno kanalizacijo (Priloga 4C), vendar med prilogami ni mnenja upravljavca kanalizacijskega omrežja",
+      "lokacija": "Seznam prilog / Priloga 4C",
+      "pravna_podlaga": "46. člen GZ-1 (zahtevi se priložijo mnenja pristojnih mnenjedajalcev); 43. člen GZ-1"
+    },
+    {
+      "id": "T2-B1",
+      "kategorija": "B",
+      "opis": "Bruto tlorisna površina se razlikuje med Prilogo 4B (140 m2) in seštevkom etažnih površin v tehničnem poročilu (155 m2)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T2-B2",
+      "kategorija": "B",
+      "opis": "Odmik od vzhodne parcelne meje se razlikuje med tehničnim poročilom (4,00 m) in situacijo obstoječega stanja (3,00 m)",
+      "lokacija": "Tehnično poročilo proti situaciji",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T2-B3",
+      "kategorija": "B",
+      "opis": "Naklon strehe se razlikuje med Prilogo 4B (35 stopinj) in prerezom A-A (40 stopinj)",
+      "lokacija": "Priloga 4B proti prerezu A-A",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T2-C1",
+      "kategorija": "C",
+      "opis": "Enostanovanjska stavba (CC-SI 11100) z bruto tlorisno površino 140 m2 je razvrščena med nezahtevne objekte, čeprav je po merilih nezahtevni objekt le do 25 m2; pravilna razvrstitev je manj zahteven objekt",
+      "lokacija": "Podatki o nameravani gradnji / Priloga 4B",
+      "pravna_podlaga": "Uredba o razvrščanju objektov (Priloga 1, razred 11100 - nezahtevni do 25 m2; 9. in 10. člen)"
+    },
+    {
+      "id": "T2-C2",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa skladnosti objekta s prostorskimi akti in predpisi o urejanju prostora, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 2. točka - opis skladnosti objekta s prostorskimi akti)"
+    }
+  ],
+  "mejni_primeri": []
+}

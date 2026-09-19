@@ -1,0 +1,23 @@
+# Skrivnosti
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Lokalna vektorska baza (zgradi se z `python backend/ingest.py`)
+chroma_db/
+
+# Lokalni izhodi za razhroščevanje
+rag_query_out.txt
+raw_response.txt
+
+# Lokalne nastavitve orodij
+.claude/

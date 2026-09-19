@@ -1,0 +1,56 @@
+{
+  "vloga": "vloga_T3.md",
+  "opis": "Testna vloga T3 - stanovanjska stavba v območju kulturne dediščine. 7 ocenjevanih napak (2xA, 3xB, 2xC).",
+  "pomanjkljivosti": [
+    {
+      "id": "T3-A1",
+      "kategorija": "A",
+      "opis": "Objekt leži v območju, varovanem po predpisih o varstvu kulturne dediščine, vendar med prilogami ni mnenja pristojnega organa za varstvo kulturne dediščine",
+      "lokacija": "Seznam prilog",
+      "pravna_podlaga": "46. člen GZ-1 (zahtevi se priložijo mnenja pristojnih mnenjedajalcev); 43. člen GZ-1"
+    },
+    {
+      "id": "T3-A2",
+      "kategorija": "A",
+      "opis": "Objekt se priključuje na javno cesto, vendar med prilogami ni mnenja oziroma soglasja upravljavca javne ceste za priključek",
+      "lokacija": "Seznam prilog / Priloga 4C",
+      "pravna_podlaga": "46. člen GZ-1 (mnenja mnenjedajalcev oziroma soglasje upravljavca javne ceste za priključek)"
+    },
+    {
+      "id": "T3-B1",
+      "kategorija": "B",
+      "opis": "Tlorisne dimenzije stavbe se razlikujejo med Prilogo 4B (10,00 x 8,00 m) in tehničnim poročilom (10,00 x 8,50 m)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T3-B2",
+      "kategorija": "B",
+      "opis": "Etažnost se razlikuje: Priloga 4B navaja pritličje in nadstropje (P+1), tehnično poročilo pa pritličje, nadstropje in mansardo (P+1+M)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T3-B3",
+      "kategorija": "B",
+      "opis": "Višina objekta se razlikuje med Prilogo 4B (7,80 m) in tehničnim poročilom oziroma prerezom A-A (8,10 m)",
+      "lokacija": "Priloga 4B proti tehničnemu poročilu in prerezu A-A",
+      "pravna_podlaga": "notranja neskladnost"
+    },
+    {
+      "id": "T3-C1",
+      "kategorija": "C",
+      "opis": "Tehnično poročilo ne vsebuje opisa vplivov gradnje (vibracije, hrup, prašenje, osvetlitev) na neposredno okolico, ki je obvezna sestavina",
+      "lokacija": "Tehnično poročilo",
+      "pravna_podlaga": "7. člen Pravilnika (drugi odstavek, 3. točka - opis vplivov gradnje na neposredno okolico)"
+    },
+    {
+      "id": "T3-C2",
+      "kategorija": "C",
+      "opis": "Objekt je v vlogi razvrščen kot enostanovanjska stavba (CC-SI 11100), čeprav opis navaja dve ločeni stanovanjski enoti z ločenima vhodoma; pravilna razvrstitev je dvostanovanjska stavba (CC-SI 11210)",
+      "lokacija": "Podatki o nameravani gradnji / opis objekta",
+      "pravna_podlaga": "Uredba o razvrščanju objektov (klasifikacija glede na število stanovanjskih enot; 5. in 6. člen, Priloga 1 - razreda 11100 in 11210)"
+    }
+  ],
+  "mejni_primeri": []
+}
