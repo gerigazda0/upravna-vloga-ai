@@ -1,0 +1,1833 @@
+{
+ "opis": "Vsebinska razvrstitev vseh različnih javljenih pomanjkljivosti (vloge T1–T6). razvrstitev: seznam ID-jev napak iz referenčne resnice, ki jih postavka zazna (več ID-jev = postavka združuje več napak; pri prirejanju ena na ena se šteje za eno), \"LP\" = lažno opozorilo, \"mejni\" = mejni primer (izključen iz mer). Pravila razvrščanja so opisana v poglavju 4.4 diplomskega dela.",
+ "postavke": [
+  {
+   "vloga": "T1",
+   "opis": "Enostanovanjska stavba (CC-SI 11100) je v vlogi označena kot manj zahteven objekt, vendar po predpisih ni predvidena možnost manj zahtevnega objekta za to klasifikacijo.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Enostanovanjska stavba je v vlogi razvrščena kot manj zahteven objekt, vendar po predpisih (uredba_razvrscanje.txt) za CC-SI 11100 ni predvidenih manj zahtevnih objektov, temveč le nezahtevni (do 25 m²) in zahtevni (splošna merila).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Nadstrešnica je navedena kot manj zahteven objekt, kar ni skladno s predpisi za enostanovanjske stavbe.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena (+7,20 m) presega merila za nezahtevni objekt, ki ne sme presegati 4 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka pooblastilo za vlaganje vloge, saj vlogo vlaga pooblaščenec.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka pooblastilo za vlaganje vloge, če vlogo vlaga pooblaščenec.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka pooblastilo za vlaganje vloge, čeprav vlogo vlaga pooblaščenec.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga jo vlaga pooblaščenec (Arhitekturni biro Načrt d. o. o.), vendar med prilogami ni priloženega pooblastila investitorja pooblaščencu.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga jo vlaga pooblaščenec (Arhitekturni biro Načrt d. o. o.), vendar med prilogami ni priloženega pooblastila investitorja.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga jo vlaga pooblaščenec (Arhitekturni biro Načrt d. o. o.), vendar pooblastilo investitorja ni priloženo med prilogami k vlogi.",
+   "razvrstitev": [
+    "T1-A1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje upravljavca vodovoda in mnenje upravljavca kanalizacije, čeprav je predvidena priključitev na javni vodovod in kanalizacijo.",
+   "razvrstitev": [
+    "T1-A2",
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javni vodovod in javno kanalizacijo (Priloga 4C), vendar med prilogami ni mnenja upravljavca vodovoda niti mnenja upravljavca kanalizacije. Priloženo je le mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T1-A2",
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javni vodovod in javno kanalizacijo (Priloga 4C), vendar med prilogami ni mnenja upravljavca vodovodnega omrežja niti mnenja upravljavca kanalizacijskega omrežja. Priloženo je le mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T1-A2",
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javni vodovod in javno kanalizacijo (Priloga 4C), vendar med prilogami ni priloženo mnenje upravljavca vodovodnega omrežja niti mnenje upravljavca kanalizacijskega omrežja. Priloženo je le mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T1-A2",
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javni vodovod in javno kanalizacijo, vendar med prilogami ni mnenja upravljavca vodovoda niti mnenja upravljavca kanalizacije. Priloženo je le mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T1-A2",
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje upravljavca javnega vodovoda za predvideni priključek na javni vodovod.",
+   "razvrstitev": [
+    "T1-A2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje upravljavca javnega vodovoda, čeprav je v vlogi predvidena priključitev na javni vodovod.",
+   "razvrstitev": [
+    "T1-A2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javni vodovod, vendar med prilogami ni priloženega mnenja upravljavca vodovodnega omrežja.",
+   "razvrstitev": [
+    "T1-A2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje upravljavca javne kanalizacije za predvideni priključek na javno kanalizacijo.",
+   "razvrstitev": [
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje upravljavca javne kanalizacije, čeprav je v vlogi predvidena priključitev na javno kanalizacijo.",
+   "razvrstitev": [
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje za priključek na javno kanalizacijo.",
+   "razvrstitev": [
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Manjka mnenje za priključek na kanalizacijo.",
+   "razvrstitev": [
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Vloga navaja priključitev na javno kanalizacijo, vendar med prilogami ni priloženega mnenja upravljavca kanalizacijskega omrežja. Priloženo je le mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T1-A3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Kota slemena je v Prilogi 4B in Gradbeno-ureditveni situaciji navedena kot +7,20 m, v Prerezu A–A pa kot +7,45 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Kota slemena je v Prilogi 4B in Gradbeno-ureditveni situaciji navedena kot +7,20 m, v Prerezu A–A pa kot +7,45 m. Vrednosti se razlikujeta za 0,25 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v višini slemena: Priloga 4B in gradbeno-ureditvena situacija navajata +7,20 m, prerez A–A navaja +7,45 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v višini slemena: v Prilogi 4B in gradbeno-ureditveni situaciji je navedena višina +7,20 m, v prerezu A–A pa +7,45 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v višini slemena: v Prilogi 4B in gradbeno-ureditveni situaciji je navedena višina +7,20 m, v tehničnih prikazih (prerez A–A) pa +7,45 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena je v Prilogi 4B in Gradbeno-ureditveni situaciji navedena kot +7,20 m, v Prerezu A–A pa kot +7,45 m. Vrednosti se razlikujeta za 0,25 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena je v Prilogi 4B in gradbeno-ureditveni situaciji navedena kot +7,20 m, v prerezu A–A pa kot +7,45 m. Vrednosti se razlikujeta za 0,25 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena je v Prilogi 4B in gradbeno-ureditveni situaciji navedena kot +7,20 m, v prerezu A–A pa kot +7,45 m. Vrednosti se razlikujeta za 25 cm.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena je v Tehničnem poročilu navedena kot +7,45 m, v Prilogi 4B pa kot +7,20 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena je v tehničnem poročilu navedena kot +7,45 m, v drugih delih pa kot +7,20 m.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Višina slemena navedena v Prilogi 4B (+7,20 m) in v Tehničnih prikazih (Prerez A–A, +7,45 m) se ne ujema.",
+   "razvrstitev": [
+    "T1-B1"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v dimenzijah nadstrešnice: v Prilogi 4B je navedena dimenzija 6,00 × 6,00 m, v tehničnem poročilu pa 6,00 × 6,45 m.",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v tlorisnih dimenzijah nadstrešnice: Priloga 4B navaja 6,00 × 6,00 m, tehnično poročilo navaja 6,00 × 6,45 m.",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v tlorisnih dimenzijah nadstrešnice: v Prilogi 4B je navedeno 6,00 × 6,00 m, v tehničnem poročilu pa 6,00 × 6,45 m.",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Tlorisne dimenzije nadstrešnice so v Prilogi 4B navedene kot 6,00 × 6,00 m, v Tehničnem poročilu pa kot 6,00 × 6,45 m.",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Tlorisne dimenzije nadstrešnice so v Prilogi 4B navedene kot 6,00 × 6,00 m, v Tehničnem poročilu pa kot 6,00 × 6,45 m. Vrednosti se razlikujeta v drugi dimenziji (6,00 m proti 6,45 m).",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Tlorisne dimenzije nadstrešnice so v Prilogi 4B navedene kot 6,00 × 6,00 m, v tehničnem poročilu pa kot 6,00 × 6,45 m. Vrednosti se razlikujeta v drugi dimenziji (6,00 m proti 6,45 m).",
+   "razvrstitev": [
+    "T1-B2"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Barva fasade je v Prilogi 4B navedena kot 'bela', v Tehničnem poročilu pa kot 'bela v kombinaciji s sivo'.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Barva fasade je v Prilogi 4B navedena kot 'bela', v Tehničnem poročilu pa kot 'bela v kombinaciji s sivo'. Podatka sta neskladna.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Barva fasade je v Prilogi 4B navedena kot 'bela', v tehničnem poročilu pa kot 'bela v kombinaciji s sivo'. Podatka sta neskladna.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Barva fasade je v Prilogi 4B navedena kot »bela«, v tehničnem poročilu pa kot »bela v kombinaciji s sivo«. Podatka o barvi fasade sta si neskladna.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Barva fasade je v Prilogi 4B opisana kot »bela«, v tehničnem poročilu pa kot »bela v kombinaciji s sivo«. Podatka o barvi fasade sta si neskladna.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v barvi fasade: Priloga 4B navaja belo barvo, tehnično poročilo navaja belo v kombinaciji s sivo.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Neskladje v barvi fasade: v Prilogi 4B je navedena bela barva, v tehničnem poročilu pa bela v kombinaciji s sivo.",
+   "razvrstitev": [
+    "T1-B3"
+   ]
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja (CC-SI 12740) je v Prilogi 4B razvrščena med enostavne objekte, vendar uredba o razvrščanju za to klasifikacijo ne predvideva kategorije enostavnega objekta (vrednost 'enostavni objekt: noben'). Razvrstitev v vlogi je tako v nasprotju s predpisom.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja (CC-SI 12740) je v Prilogi 4B razvrščena med enostavne objekte. Za klasifikacijo 12740 predpisi ne predvidevajo kategorije enostavnega objekta (vrednost 'enostavni objekt: noben'), zato takšna razvrstitev nasprotuje uredbi o razvrščanju.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja (CC-SI 12740) s tlorisno površino 17,5 m² je v vlogi razvrščena med enostavne objekte. Po Prilogi 1 uredbe o razvrščanju za klasifikacijo 12740 ni predvidenega merila za enostavni objekt (navedeno: 'enostavni objekt: noben'), zato razvrstitev med enostavne objekte ni dopustna.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja je razvrščena med enostavne objekte, vendar po predpisih (uredba_razvrscanje.txt) za CC-SI 12740 ni predvidenih enostavnih objektov.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja je v vlogi razvrščena kot enostavni objekt, vendar po predpisih (uredba_razvrscanje.txt) za CC-SI 12740 (letne kuhinje) ni predvidena možnost enostavnega objekta.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T1",
+   "opis": "Letna kuhinja je v vlogi razvrščena kot enostavni objekt, vendar po predpisih (uredba_razvrscanje.txt) za CC-SI 12740 ni predvidenih enostavnih objektov.",
+   "razvrstitev": "mejni"
+  },
+  {
+   "vloga": "T2",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje ne ustreza predpisom: 3,00 m v Situaciji obstoječega stanja ne ustreza minimalnemu odmik 4,00 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka dokazilo o pravici graditi oziroma soglasje lastnika parcele 200/5, prek katere poteka trasa vodovodnega priključka.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka dokazilo o pravici izvedbe vodovodnega priključka prek parcele 200/5, ki je v lasti soseda.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka dokazilo o stvarni služnosti ali soglasje lastnika parcele 200/5, prek katere poteka trasa vodovodnega priključka.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Trasa vodovodnega priključka poteka prek parcele 200/5, ki je v lasti soseda, vloga pa ne vsebuje dokazila o pravici graditi (npr. služnostna pogodba, soglasje lastnika) za to parcelo. Priložen je le izpis iz zemljiške knjige za parc. št. 200/3.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Trasa vodovodnega priključka poteka prek parcele 200/5, ki je v lasti soseda, vloga pa ne vsebuje dokazila o pravici graditi (npr. služnostna pogodba, soglasje lastnika) za to parcelo. Priloženo je le dokazilo o pravici graditi za parc. št. 200/3.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Trasa vodovodnega priključka poteka prek parcele 200/5, ki je v lasti soseda, vlogi pa ni priloženo dokazilo o pravici graditi (npr. služnostna pogodba ali soglasje lastnika) za to parcelo.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Trasa vodovodnega priključka poteka prek parcele 200/5, ki je v lasti soseda, vlogi pa ni priloženo dokazilo o pravici graditi oziroma služnostna pogodba ali drugo stvarnopravno dokazilo za to parcelo.",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vodovodni priključek poteka prek parcele 200/5, ki je v lasti soseda, kar pomeni, da je za izvedbo priključka potrebna stvarna služnost ali druga pravna podlaga. Vloga ne vsebuje dokazila o pravici graditi oziroma o pravici izvesti priključek prek tuje parcele 200/5 (npr. pogodba o služnosti, stavbna pravica).",
+   "razvrstitev": [
+    "T2-A1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka mnenje upravljavca kanalizacijskega omrežja, čeprav je predvidena priključitev na javno kanalizacijo.",
+   "razvrstitev": [
+    "T2-A3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka mnenje upravljavca kanalizacijskega omrežja.",
+   "razvrstitev": [
+    "T2-A3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Manjka mnenje za priključek na kanalizacijo.",
+   "razvrstitev": [
+    "T2-A3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga navaja priključitev na javno kanalizacijo, vendar mnenje upravljavca kanalizacijskega omrežja ni priloženo. V seznamu prilog je navedeno le mnenje upravljavca vodovodnega omrežja in mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": [
+    "T2-A3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga navaja priključitev na javno kanalizacijo, vendar ni priloženo mnenje upravljavca kanalizacijskega omrežja. V seznamu prilog je mnenje upravljavca vodovodnega omrežja in elektrodistribucijskega omrežja, manjka pa mnenje za kanalizacijo.",
+   "razvrstitev": [
+    "T2-A3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Bruto tlorisna površina objekta je v Prilogi 4B navedena kot 140 m², v tehničnem poročilu pa kot 155 m².",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Bruto tlorisna površina skupaj je v Prilogi 4B navedena kot 140 m², medtem ko seštevek površin po etažah v Tehničnem poročilu znaša 155 m² (klet 50 m² + pritličje 55 m² + nadstropje 50 m²).",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Bruto tlorisna površina skupaj je v Prilogi 4B navedena kot 140 m², medtem ko seštevek površin po etažah v Tehničnem poročilu znaša 155 m² (klet 50 m² + pritličje 55 m² + nadstropje 50 m²). Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Bruto tlorisna površina stavbe skupaj je v Prilogi 4B navedena kot 140 m², medtem ko seštevek površin po etažah v Tehničnem poročilu znaša 155 m² (klet 50 m² + pritličje 55 m² + nadstropje 50 m²). Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v skupni bruto tlorisni površini: Priloga 4B navaja 140 m², tehnično poročilo pa 155 m².",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v skupni bruto tlorisni površini: v Prilogi 4B je navedeno 140 m², v tehničnem poročilu pa 155 m².",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Notranja neskladnost v bruto tlorisni površini: 140 m² v Prilogi 4B in 155 m² v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Notranja neskladnost v bruto tlorisni površini: 140 m² v Prilogi 4B in 155 m² v tehničnem poročilu.",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Skupna bruto tlorisna površina stavbe je v Prilogi 4B navedena kot 140 m², medtem ko seštevek površin po etažah v Tehničnem poročilu znaša 155 m² (klet 50 m² + pritličje 55 m² + nadstropje 50 m²). Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v odmiku najbolj izpostavljenega dela stavbe od vzhodne parcelne meje: tehnično poročilo navaja 4,00 m, situacija obstoječega stanja pa 3,00 m.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v odmiku najbolj izpostavljenega dela stavbe od vzhodne parcelne meje: v tehničnem poročilu je naveden 4,00 m, v situaciji obstoječega stanja pa 3,00 m.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje je v Tehničnem poročilu naveden kot 4,00 m, v Situaciji obstoječega stanja pa kot 3,00 m.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje je v Tehničnem poročilu naveden kot 4,00 m, v Situaciji obstoječega stanja pa kot 3,00 m. Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje je v tehničnem poročilu naveden kot 4,00 m, v situaciji obstoječega stanja pa kot 3,00 m.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje ne ustreza predpisom: 3,00 m v Situaciji obstoječega stanja, medtem ko je v Tehničnem poročilu navedeno 4,00 m.",
+   "razvrstitev": [
+    "T2-B2"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v Prerezu A–A (Tehnični prikazi) pa kot 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v Prerezu A–A (Tehnični prikazi) pa kot 40°. Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v Tehničnem prikazu – Prerezu A–A pa kot 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v Tehničnem prikazu – Prerezu A–A pa kot 40°. Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v prerezu A–A pa kot 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Naklon strehe je v Prilogi 4B naveden kot 35°, v tehničnih prikazih (prerez A–A) pa kot 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v naklonu strehe: Priloga 4B navaja 35°, tehnični prikazi (prerez A–A) pa 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v naklonu strehe: v Prilogi 4B je naveden naklon 35°, v prerezu A–A pa 40°.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Notranja neskladnost v naklonu strehe: 35° v Prilogi 4B in 40° v Tehničnih prikazih.",
+   "razvrstitev": [
+    "T2-B3"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Navedba, da je objekt razvrščen med nezahtevne, je v nasprotju s predpisi, saj ima objekt več kot eno etažo in višino slemena 8,10 m, kar presega merila za nezahtevni objekt.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Neskladje v etažnosti: v Prilogi 4B je navedena etažnost K + P + 1 (klet, pritličje, nadstropje), v vlogi pa je objekt razvrščen kot nezahteven, kar ni skladno z etažnostjo.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Višina slemena (+8,10 m) presega dovoljeno višino za nezahtevne objekte (4 m).",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga navaja, da je objekt razvrščen med nezahtevne objekte, vendar ima stavba tri etaže (K+P+1) in višino slemena 8,10 m, kar presega merila za nezahtevni objekt (največ 2 etaži in višina do 6 m).",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga objekt klasificira kot CC-SI 11100 (enostanovanjska stavba) in ga hkrati razvršča med nezahtevne objekte. Enostanovanjska stavba s kletjo, pritličjem in nadstropjem ter bruto tlorisno površino nad 100 m² in višino slemena nad 8 m ne izpolnjuje meril za nezahteven objekt po veljavni Uredbi o razvrščanju objektov, temveč se uvršča med manj zahtevne objekte.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga razvršča enostanovanjsko stavbo (CC-SI 11100) med nezahtevne objekte, čeprav ima objekt klet, pritličje in nadstropje (K + P + 1), torej tri etaže. Nezahtevni objekt je stavba le, če ima samo eno etažo. Objekt s tremi etažami ne izpolnjuje tega merila in ga ni mogoče razvrstiti med nezahtevne objekte.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga razvršča enostanovanjsko stavbo (CC-SI 11100) med nezahtevne objekte, čeprav ima objekt klet, pritličje in nadstropje (K + P + 1), torej tri etaže. Nezahtevni objekt je stavba samo, če ima eno etažo in višina ne presega 6 m. Objekt s tremi etažami in slemenom na +8,10 m ne izpolnjuje meril za nezahtevni objekt.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga razvršča enostanovanjsko stavbo (CC-SI 11100) med nezahtevne objekte, čeprav ima objekt klet, pritličje in nadstropje (K + P + 1), torej tri etaže. Nezahtevni objekt sme imeti samo eno etažo in višina ne sme presegati 6 m, globina pa 2 m. Objekt s tremi etažami in slemenom pri +8,10 m teh meril ne izpolnjuje in ga ni mogoče razvrstiti med nezahtevne objekte.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T2",
+   "opis": "Vloga uvršča enostanovanjsko stavbo (CC-SI 11100) med nezahtevne objekte. Enostanovanjska stavba s kletjo, pritličjem in nadstropjem ter bruto tlorisno površino nad 100 m² ne izpolnjuje meril za razvrstitev med nezahtevne objekte po Uredbi o razvrščanju objektov, ki za nezahtevne stanovanjske stavbe določa omejitve glede površine in etažnosti.",
+   "razvrstitev": [
+    "T2-C1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta (7,80 m) presega dovoljeno višino za enostavni objekt (4 m).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta (8,10 m) ne ustreza merilom za enostavni objekt (max 5 m).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta 7,80 m ne ustreza merilom za enostavno stavbo, ki ne sme presegati 4 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T3",
+   "opis": "Manjka mnenje pristojne službe za varstvo kulturne dediščine, čeprav je objekt v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine (navedeno v opisu nameravane gradnje), vendar ni priloženo kulturnovarstveno soglasje oziroma mnenje pristojnega zavoda za varstvo kulturne dediščine.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine, vendar ni priloženo kulturnovarstveno soglasje (mnenje Zavoda za varstvo kulturne dediščine).",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine, vendar ni priloženo kulturnovarstveno soglasje pristojnega zavoda za varstvo kulturne dediščine.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine, vendar ni priloženo mnenje pristojnega zavoda za varstvo kulturne dediščine.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine, vendar vloga ne vsebuje mnenja pristojnega zavoda za varstvo kulturne dediščine.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt leži v območju, varovanem v skladu s predpisi o varstvu kulturne dediščine, vendar vloga ne vsebuje mnenja pristojnega zavoda za varstvo kulturne dediščine. Takšno mnenje je predpisana sestavina vloge za objekte v varovanem območju.",
+   "razvrstitev": [
+    "T3-A1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Manjka mnenje za priključek na javno cesto.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga navaja priključek na javno cesto (Priloga 4C), vendar ni priloženo mnenje upravljavca javne ceste (občine ali DRSI) za ta priključek.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga navaja priključek na javno cesto (Priloga 4C), vendar ni priloženo mnenje upravljavca javne ceste (občine ali pristojnega upravljavca) za ta priključek. V seznamu prilog je navedeno le mnenje občine o skladnosti s prostorskim aktom, ne pa mnenje za priključek na cesto.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga navaja priključek na javno cesto (občinska cesta), vendar ni priloženo mnenje upravljavca ceste (cestnega organa) za ta priključek.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga navaja priključek na javno cesto (občinska cesta), vendar ni priloženo mnenje upravljavca javne ceste (cestnega organa) o priključitvi na javno cesto.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga navaja priključek na javno cesto (občinska cesta), vendar ni priloženo mnenje upravljavca javne ceste za ta priključek.",
+   "razvrstitev": [
+    "T3-A2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v tlorisnih dimenzijah objekta: v Prilogi 4B je navedeno 10,00 × 8,00 m, v Tehničnem poročilu pa 10,00 × 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v tlorisnih dimenzijah stavbe: v Prilogi 4B je navedeno 10,00 × 8,00 m, v Tehničnem poročilu pa 10,00 × 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v tlorisnih dimenzijah stavbe: v Prilogi 4B so navedene dimenzije 10,00 × 8,00 m, v tehničnem poročilu pa 10,00 × 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Notranja neskladnost v dimenzijah objekta: Tlorisne dimenzije v Prilogi 4B so 10,00 × 8,00 m, v Tehničnem poročilu pa 10,00 × 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Tlorisna globina stavbe je v Prilogi 4B navedena kot 8,00 m, v Tehničnem poročilu pa kot 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Tlorisna širina stavbe je v Prilogi 4B navedena kot 8,00 m, v Tehničnem poročilu pa kot 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Tlorisna širina stavbe je v Prilogi 4B navedena kot 8,00 m, v Tehničnem poročilu pa kot 8,50 m. Vrednosti se razlikujeta.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Tlorisne dimenzije stavbe so v Prilogi 4B navedene kot 10,00 × 8,00 m, v tehničnem poročilu pa kot 10,00 × 8,50 m.",
+   "razvrstitev": [
+    "T3-B1"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost je v Prilogi 4B navedena kot P + 1 (pritličje in nadstropje), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (P + 1 + M).",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost je v Prilogi 4B navedena kot pritličje + nadstropje (P+1), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (P+1+M), kar pomeni tri etaže.",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost je v Prilogi 4B navedena kot pritličje + nadstropje (P+1, torej dve etaži), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (tri etaže).",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost objekta je v Prilogi 4B navedena kot P + 1 (pritličje in nadstropje), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (P + 1 + M).",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost objekta je v Prilogi 4B navedena kot pritličje + nadstropje (P + 1), v tehničnem poročilu pa kot pritličje, nadstropje in mansarda.",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost objekta je v Prilogi 4B navedena kot pritličje + nadstropje (P+1), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (P+1+M).",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Etažnost stavbe je v Prilogi 4B navedena kot pritličje + nadstropje (P + 1, torej dve etaži), v Tehničnem poročilu pa kot pritličje, nadstropje in mansarda (tri etaže). Vrednosti se razlikujeta.",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v etažnosti: v Prilogi 4B je navedeno pritličje + nadstropje (P + 1), v Tehničnem poročilu pa pritličje, nadstropje in mansarda.",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v etažnosti: v Prilogi 4B je navedeno pritličje + nadstropje (P + 1), v tehničnem poročilu pa pritličje, nadstropje in mansarda.",
+   "razvrstitev": [
+    "T3-B2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v višini objekta: 7,80 m v Prilogi 4B in 8,10 m v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v višini objekta: v Prilogi 4B je navedena višina 7,80 m, v Tehničnem poročilu in prerezu A–A pa 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v višini objekta: v Prilogi 4B je navedena višina 7,80 m, v tehničnem poročilu in prerezu A–A pa 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Neskladje v višini objekta: v Prilogi 4B je navedeno 7,80 m, v Tehničnem poročilu in prerezu A–A pa 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Notranja neskladnost v višini objekta: 7,80 m v Prilogi 4B in 8,10 m v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Notranja neskladnost v višini objekta: Višina objekta v Prilogi 4B je 7,80 m, v Tehničnem poročilu pa 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta je v Prilogi 4B navedena kot 7,80 m, v Tehničnem poročilu in prerezu A–A pa kot 8,10 m (kota slemena).",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta je v Prilogi 4B navedena kot 7,80 m, v Tehničnem poročilu in prerezu A–A pa kot 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta je v Prilogi 4B navedena kot 7,80 m, v Tehničnem poročilu in v prerezu A–A pa kot 8,10 m. Vrednosti se razlikujeta.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Višina objekta je v Prilogi 4B navedena kot 7,80 m, v tehničnem poročilu in prerezu A–A pa kot 8,10 m.",
+   "razvrstitev": [
+    "T3-B3"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt je klasificiran kot CC-SI 11100 – enostanovanjska stavba, vendar tehnično poročilo in besedilo vloge opisujeta stavbo z dvema ločenima stanovanjskima enotama, vsako s svojim vhodom. Stavba z dvema stanovanjskima enotama ustreza klasifikaciji CC-SI 11210 (dvostanovanjska stavba), ne CC-SI 11100.",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt je klasificiran kot CC-SI 11100 – enostanovanjska stavba, vendar tehnično poročilo in opis nameravane gradnje izrecno navajata dve ločeni stanovanjski enoti z ločenima vhodoma. Stavba z dvema stanovanjskima enotama ustreza klasifikaciji CC-SI 11210 (dvostanovanjska stavba), ne CC-SI 11100 (enostanovanjska stavba).",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt je klasificiran kot CC-SI 11100 – enostanovanjska stavba, vendar vloga opisuje stavbo z dvema ločenima stanovanjskima enotama, vsako s svojim vhodom, kar ustreza dvostanovanjski stavbi (CC-SI 11210), ne enostanovanjski.",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Objekt je klasificiran kot enostanovanjska stavba (CC-SI 11100), vendar tehnično poročilo in besedilo vloge opisujeta stavbo z dvema ločenima stanovanjskima enotama, vsako s svojim vhodom. Stavba z dvema stanovanjskima enotama ustreza klasifikaciji dvostanovanjska stavba (CC-SI 11210), ne enostanovanjski stavbi (CC-SI 11100).",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga klasificira objekt kot CC-SI 11100 – enostanovanjska stavba, vendar tehnično poročilo in opis predmeta vloge navajata, da gre za stavbo z dvema ločenima stanovanjskima enotama, vsako s svojim vhodom. Stavba z dvema stanovanjskima enotama ustreza klasifikaciji CC-SI 11210 (dvostanovanjska stavba), ne CC-SI 11100 (enostanovanjska stavba). Napačna klasifikacija vpliva na razvrstitev glede zahtevnosti gradnje in morebitne druge predpisane zahteve.",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T3",
+   "opis": "Vloga klasificira objekt z dvema ločenima stanovanjskima enotama pod CC-SI 11100 (enostanovanjska stavba). Stavba z dvema ločenima stanovanjskima enotama ustreza CC-SI 11210 (dvostanovanjska stavba), ne enostanovanjski stavbi (CC-SI 11100).",
+   "razvrstitev": [
+    "T3-C2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Manjka mnenje za komunalni priključek za odvajanje meteornih voda.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Manjka pooblastilo, če vlogo vlaga pooblaščenec (iz vloge ni razvidno, ali investitor vlaga sam ali preko pooblaščenca).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Navedba o razvrstitvi objekta kot nezahtevnega ne ustreza, saj je površina nad 2000 m².",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladnost z zahtevami glede površine gradbene parcele: navedena površina 720 m² v Situaciji obstoječega stanja ne ustreza zahtevam za dvostanovanjsko stavbo.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladnost z zahtevami glede razvrščanja objektov: dvostanovanjska stavba je navedena kot nezahtevni objekt, vendar višina presega 10 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladnost z zahtevo, ker je navedeno 3 parkirna mesta, kar ni skladno z zahtevami za dvostanovanjske stavbe.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja priključitev na ponikovalnico za meteorne vode (tehnično poročilo), kar pomeni dodatni komunalni priključek oziroma ureditev odvajanja meteornih voda, za katero ni priloženo nobeno mnenje pristojnega upravljavca ali drugega organa. Poleg tega seznam prilog ne vsebuje mnenja za ta priključek/ureditev.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja, da zemljišče leži v priobalnem pasu vodotoka, situacija pa ne prikazuje odmika objekta od zunanjih meja priobalnih zemljišč, čeprav je ta prikaz obvezen (izjema za opustitev prikaza odmikov velja le, kadar so odmiki večji od 40 m od zunanjih meja priobalnih zemljišč na vodah 1. reda zunaj območij naselja).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja, da zemljišče leži v priobalnem pasu vodotoka. Gradbeno-ureditvena situacija mora v tem primeru prikazovati odmike od zunanjih meja priobalnih zemljišč na vodah 1. reda zunaj območij naselja (prag 40 m), oziroma mora biti razvidno, da je ta pogoj izpolnjen. Iz vloge ni razvidno, da je odmik od meje priobalnega zemljišča prikazan ali da presega 40 m, kar je pogoj za opustitev prikaza odmikov.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga ne vsebuje pooblastila vlagatelja, čeprav iz vloge ni razvidno, da jo vlaga investitorica sama neposredno; v kolikor jo vlaga pooblaščenec, pooblastilo manjka. Poleg tega vloga ne vsebuje prikaza odmikov objekta od zunanjih meja priobalnih zemljišč, čeprav je v vlogi izrecno navedeno, da »zemljišče leži v priobalnem pasu vodotoka«. Pravilnik zahteva prikaz odmikov od zunanjih meja priobalnih zemljišč na vodah 1. reda zunaj območij naselja, razen kadar so odmiki večji od 40 m – tega pa vloga ne izkazuje.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T4",
+   "opis": "Investitor nima vpisane lastninske ali druge stvarne pravice na gradbeni parceli, vlogi pa ni priloženo dokazilo o pravici graditi (npr. pogodba, služnostna pogodba, stavbna pravica ali drugo ustrezno dokazilo).",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Investitor nima vpisane lastninske ali druge stvarne pravice na gradbeni parceli, vlogi pa ni priloženo nobeno dokazilo o pravici graditi (npr. pogodba, služnostna pogodba, soglasje lastnika ipd.).",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Investitorica Ana Zupan na gradbeni parceli nima vpisane lastninske ali druge stvarne pravice, vloga pa ne vsebuje dokazila o pravici graditi (npr. pogodbe, služnostne pogodbe ali drugega ustreznega pravnega naslova).",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Investitorica Ana Zupan nima vpisane lastninske ali druge stvarne pravice na gradbeni parceli, vloga pa ne vsebuje nobenega dokazila o pravici graditi (npr. pogodbe, služnostne pogodbe, soglasja lastnika ipd.).",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Investitorica Ana Zupan nima vpisane lastninske ali druge stvarne pravice na gradbeni parceli, vlogi pa ni priloženo dokazilo o pravici graditi (npr. pogodba, služnostna pogodba, stavbna pravica ali drugo ustrezno dokazilo).",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Manjka dokazilo o pravici graditi, saj investitor na gradbeni parceli nima vpisane lastninske ali druge stvarne pravice.",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Manjkajoča dokazila o pravici graditi, ker investitor nima vpisane lastninske ali druge stvarne pravice na gradbeni parceli.",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Manjkajoča dokazila o pravici graditi, ker investitor nima vpisane lastninske ali druge stvarne pravice.",
+   "razvrstitev": [
+    "T4-A1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja priključitev na meteorno/ponikovalnico, kar pomeni, da je predviden poseg v zvezi z odvajanjem meteornih voda, ki bi lahko zahteval mnenje pristojnega upravljavca voda ali drugega organa, zlasti ker zemljišče leži v priobalnem pasu vodotoka. Mnenje upravljavca vodotoka oziroma pristojnega organa za vode ni priloženo.",
+   "razvrstitev": [
+    "T4-A2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja, da zemljišče leži v priobalnem pasu vodotoka, hkrati pa ne vsebuje vodnega soglasja oziroma mnenja Direkcije RS za vode. Gradnja v priobalnem pasu je brez tega soglasja nedopustna.",
+   "razvrstitev": [
+    "T4-A2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga navaja, da zemljišče leži v priobalnem pasu vodotoka, vendar med prilogami ni mnenja pristojnega upravljavca vodnega območja oziroma Direkcije RS za vode, ki je za posege v priobalni pas vodotoka predpisano.",
+   "razvrstitev": [
+    "T4-A2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladje v podatku o površini gradbene parcele: v osnovnih podatkih je navedena površina 650 m², v Situaciji obstoječega stanja pa 720 m².",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladnost z zahtevo glede površine gradbene parcele: navedena površina 720 m² v Situaciji obstoječega stanja, kar je v nasprotju s površino parcele 650 m² v podatkih o nameravani gradnji.",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v Podatkih o nameravani gradnji navedena kot 650 m², v Situaciji obstoječega stanja pa kot 720 m².",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v Podatkih o nameravani gradnji navedena kot 650 m², v Situaciji obstoječega stanja pa kot 720 m². Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v osnovnih podatkih navedena kot 650 m², v Situaciji obstoječega stanja pa kot 720 m².",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v podatkih o nameravani gradnji navedena kot 650 m², v Situaciji obstoječega stanja pa kot 720 m². Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v podatkih o nameravani gradnji navedena kot 650 m², v situaciji obstoječega stanja pa kot 720 m².",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Površina gradbene parcele je v vlogi navedena kot 650 m², v situaciji obstoječega stanja pa kot 720 m².",
+   "razvrstitev": [
+    "T4-B1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladje v številu parkirnih mest: v Prilogi 4B sta navedeni 2 parkirni mesti, v Tehničnem poročilu pa 3 parkirna mesta.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 2, v Tehničnem poročilu pa kot 3.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 2, v Tehničnem poročilu pa kot 3. Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 2, v tehničnem poročilu pa kot 3.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Število predvidenih parkirnih mest je v Prilogi 4B navedeno kot 2, v Tehničnem poročilu pa kot 3.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Število predvidenih parkirnih mest je v Prilogi 4B navedeno kot 2, v tehničnem poročilu pa kot 3.",
+   "razvrstitev": [
+    "T4-B2"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladje v neto tlorisni površini objekta: 135 m² v Prilogi 4B in 120 m² v tehničnem poročilu.",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladje v podatku o neto tlorisni površini: v Prilogi 4B je navedeno 135 m², v Tehničnem poročilu pa 120 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina je v Prilogi 4B navedena kot 135 m², v Tehničnem poročilu pa kot 120 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina je v Prilogi 4B navedena kot 135 m², v Tehničnem poročilu pa kot 120 m². Vrednosti se ne ujemata.",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina je v Prilogi 4B navedena kot 135 m², v tehničnem poročilu pa kot 120 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina objekta je v Prilogi 4B navedena kot 135 m², v Tehničnem poročilu pa kot 120 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina objekta je v Prilogi 4B navedena kot 135 m², v tehničnem poročilu pa kot 120 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neto tlorisna površina v tehničnem poročilu je navedena kot 120 m², v prilogi 4B pa kot 135 m².",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Notranja neskladnost v neto tlorisni površini objekta: 135 m² v Prilogi 4B in 120 m² v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Notranja neskladnost v neto tlorisni površini: 135 m² v Prilogi 4B in 120 m² v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T4-B3"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Dvojček (dvostanovanjska stavba, CC-SI 11210) je v vlogi razvrščen med nezahtevne objekte, vendar po uredba_razvrscanje.txt za to klasifikacijo ni predvidenih nezahtevnih objektov.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Dvojček (dvostanovanjska stavba, CC-SI 11210) je v vlogi razvrščen med nezahtevne objekte, vendar po uredbi ni predvidena možnost, da bi bila dvostanovanjska stavba nezahteven objekt.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Dvostanovanjska stavba (CC-SI 11210) z bruto tlorisno površino 160 m² in višino slemena 7,80 m (torej višino nad 5 m) je razvrščena med nezahtevne objekte, kar ni skladno z uredbo. Stavba CC-SI 11210 je nezahtevni objekt le, če njena površina ne presega 250 m² in višina ne presega 5 m; ker višina 7,80 m presega 5 m, objekt ne izpolnjuje meril za nezahtevni objekt.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Neskladnost z zahtevo, ker je navedena bruto tlorisna površina 160 m², kar je v nasprotju z omejitvami za nezahtevne objekte.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Objekt je razvrščen kot nezahteven, vendar ima bruto tlorisno površino 160 m², kar je več od 135 m², kar je v nasprotju z definicijo nezahtevnega objekta.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga razvršča dvostanovanjsko stavbo (CC-SI 11210) med nezahtevne objekte. Dvostanovanjska stavba po veljavni Uredbi o razvrščanju objektov ne spada med nezahtevne objekte, temveč med manj zahtevne objekte.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga razvršča dvostanovanjsko stavbo (CC-SI 11210) med nezahtevne objekte. Po Prilogi 1 Uredbe o razvrščanju objektov za CC-SI 1121 (dvostanovanjske stavbe) kategorija nezahtevnega objekta ni predvidena (vrednost: noben), zato razvrstitev med nezahtevne objekte ni dopustna.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T4",
+   "opis": "Vloga razvršča dvostanovanjsko stavbo (CC-SI 11210) med nezahtevne objekte. Po Uredbi o razvrščanju objektov (Priloga 1) za CC-SI 1121 (dvostanovanjske stavbe) kategorija nezahtevnega objekta ni predvidena (navedeno je »noben«). Stavba se torej ne more razvrstiti med nezahtevne objekte.",
+   "razvrstitev": [
+    "T4-C1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Manjka mnenje upravljavca za komunalni priključek za kanalizacijo.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Manjka mnenje upravljavca za priključek na javni vodovod.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Manjka mnenje upravljavca za priključek na kanalizacijo.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Višina objekta (6,50 m) ne ustreza merilom za enostavni objekt, ki ne sme presegati 4 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Višina objekta v Tehničnem poročilu (6,50 m) se ne ujema z višino objekta v Tehničnih prikazih (10° naklon strehe, kar implicira višjo višino).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Višina objekta v Tehničnem poročilu (6,50 m) se ne ujema z višino objekta v Tehničnih prikazih (6,50 m) in v Prilogi 4B (6,50 m).",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Višina objekta v Tehničnem poročilu je navedena kot 6,50 m, kar je v nasprotju z zahtevami za višino enostanovanjske stavbe.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Višina objekta v tehničnem poročilu je navedena kot 6,50 m, kar je v nasprotju z zahtevami za manj zahtevne objekte, ki predvidevajo višino do 6 m.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T5",
+   "opis": "Manjka pooblastilo za vlaganje vloge, če vlogo vlaga pooblaščenec.",
+   "razvrstitev": [
+    "T5-A1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Vloga jo vlaga pooblaščenec (Projektivni biro Sever d. o. o.), vendar pooblastilo investitorja ni priloženo med prilogami.",
+   "razvrstitev": [
+    "T5-A1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Vlogi ni priloženo pooblastilo za vlaganje vloge po pooblaščencu, čeprav vlogo vlaga Projektivni biro Sever d. o. o. v imenu investitorja.",
+   "razvrstitev": [
+    "T5-A1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Vlogo vlaga pooblaščenec (Projektivni biro Sever d. o. o.), vendar med prilogami ni priloženega pooblastila investitorja.",
+   "razvrstitev": [
+    "T5-A1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Vlogo vlaga pooblaščenec (Projektivni biro Sever d. o. o.), vendar pooblastilo investitorja ni priloženo med prilogami vloge.",
+   "razvrstitev": [
+    "T5-A1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Neskladje v odmiku objekta od vzhodne parcelne meje: v tehničnem poročilu je naveden odmik 5,00 m, v situaciji obstoječega stanja pa 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Neskladje v odmiku objekta od vzhodne parcelne meje: v tehničnem poročilu je odmik 5,00 m, v situaciji obstoječega stanja pa 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Neskladje v odmiku od vzhodne parcelne meje: v tehničnem poročilu je odmik 5,00 m, v situaciji obstoječega stanja pa 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje je v tehničnem poročilu naveden kot 5,00 m, v situaciji obstoječega stanja pa kot 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Odmik od vzhodne parcelne meje je neskladen: tehnično poročilo navaja odmik 5,00 m, situacija obstoječega stanja pa prikazuje odmik 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Odmik od vzhodne parcelne meje je v Tehničnem poročilu naveden kot 5,00 m, v Situaciji obstoječega stanja pa je odmik najbolj izpostavljenega dela stavbe od vzhodne parcelne meje prikazan kot 3,50 m. Vrednosti si nasprotujeta.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Odmik od vzhodne parcelne meje je v Tehničnem poročilu naveden kot 5,00 m, v Situaciji obstoječega stanja pa kot 3,50 m.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Odmik od vzhodne parcelne meje je v Tehničnem poročilu naveden kot 5,00 m, v Situaciji obstoječega stanja pa kot 3,50 m. Vrednosti si nasprotujeta.",
+   "razvrstitev": [
+    "T5-B1"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Neskladje v številu parkirnih mest: v Prilogi 4B je navedeno 12 parkirnih mest, v tehničnem poročilu pa 14 parkirnih mest.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je neskladno: Priloga 4B navaja 12 parkirnih mest, tehnično poročilo pa navaja 14 parkirnih mest.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 12, v Tehničnem poročilu pa kot 14.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 12, v Tehničnem poročilu pa kot 14. Vrednosti si nasprotujeta.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je v Prilogi 4B navedeno kot 12, v tehničnem poročilu pa kot 14.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je v Tehničnem poročilu navedeno kot 14, v Prilogi 4B pa kot 12.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest je v tehničnem poročilu navedeno kot 14, v prilogi 4B pa kot 12.",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Število parkirnih mest v Tehničnem poročilu (14) se ne ujema s številom parkirnih mest v Prilogi 4B (12).",
+   "razvrstitev": [
+    "T5-B2"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je neskladen: Priloga 4B in tehnično poročilo navajata naklon 8°, medtem ko prerez A–A v tehničnih prikazih navaja naklon 10°.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je v Prilogi 4B in Tehničnem poročilu naveden kot 8°, v Prerezu A–A (Tehnični prikazi) pa kot 10°.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je v Prilogi 4B in Tehničnem poročilu naveden kot 8°, v Prerezu A–A pa kot 10°. Vrednosti si nasprotujeta.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je v Prilogi 4B in Tehničnem poročilu naveden kot 8°, v prerezu A–A pa kot 10°.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je v Prilogi 4B in Tehničnem poročilu naveden kot 8°, v prerezu A–A pa kot 10°. Vrednosti si nasprotujeta.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Naklon strehe je v Prilogi 4B in tehničnem poročilu naveden kot 8°, v tehničnih prikazih (prerez A–A) pa kot 10°.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T5",
+   "opis": "Neskladje v naklonu strehe: v Prilogi 4B in tehničnem poročilu je naveden naklon 8°, v tehničnih prikazih (prerez A–A) pa 10°.",
+   "razvrstitev": [
+    "T5-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Manjka mnenje upravljavca elektrodistribucijskega omrežja.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T6",
+   "opis": "Manjka mnenje upravljavca za komunalne priključke, ki ga vloga navaja.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T6",
+   "opis": "Manjka mnenje upravljavca za komunalni priključek za elektriko.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T6",
+   "opis": "Manjka mnenje upravljavca za vsak komunalni priključek, ki ga vloga navaja.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T6",
+   "opis": "Odmik prizidave od južne parcelne meje 2,00 m ne ustreza predpisom, ki zahtevajo večji odmik za enostanovanjske stavbe.",
+   "razvrstitev": "LP"
+  },
+  {
+   "vloga": "T6",
+   "opis": "Kota slemena prizidave je neskladna: Priloga 4B navaja +3,80 m, prerez A–A pa +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Kota slemena prizidave je neskladna: Priloga 4B navaja +3,80 m, tehnični prikaz (prerez A–A) pa +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Kota slemena prizidave je neskladna: Priloga 4B navaja +3,80 m, tehnični prikaz – Prerez A–A pa navaja +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Kota slemena prizidave je neskladna: Priloga 4B navaja +3,80 m, tehnični prikaz – prerez A–A pa navaja +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v višini slemena prizidave: v Prilogi 4B je navedena višina +3,80 m, v Tehničnih prikazih (prerez A–A) pa +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v višini slemena prizidave: v Prilogi 4B je navedena višina +3,80 m, v Tehničnih prikazih (prerez A–A) pa kota slemena +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v višini slemena prizidave: v Prilogi 4B je navedena višina +3,80 m, v tehničnih prikazih (prerez A–A) pa +4,10 m.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Notranja neskladnost v višini slemena prizidave: +3,80 m (Priloga 4B) in +4,10 m (Tehnični prikazi).",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Notranja neskladnost v višini slemena prizidave: +3,80 m v Prilogi 4B in +4,10 m v Tehničnem prikazu.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Višina slemena prizidave v Tehničnem poročilu (+4,10 m) ne ustreza višini slemena v Prilogi 4B (+3,80 m).",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Višina slemena prizidave: +3,80 m v Prilogi 4B in +4,10 m v Tehničnem prikazu, kar ni skladno s predpisi.",
+   "razvrstitev": [
+    "T6-B1"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v tlorisnih dimenzijah prizidave: v Prilogi 4B so navedene dimenzije 7,50 × 6,00 m, v Tehničnem poročilu pa 7,50 × 6,50 m.",
+   "razvrstitev": [
+    "T6-B2"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v tlorisnih dimenzijah prizidave: v Prilogi 4B so navedene dimenzije 7,50 × 6,00 m, v tehničnem poročilu pa 7,50 × 6,50 m.",
+   "razvrstitev": [
+    "T6-B2"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Notranja neskladnost v tlorisnih dimenzijah prizidave: 6,00 m v Prilogi 4B in 6,50 m v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T6-B2"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Tlorisna dimenzija prizidave v globino je neskladna: Priloga 4B navaja 7,50 × 6,00 m, tehnično poročilo pa 7,50 × 6,50 m.",
+   "razvrstitev": [
+    "T6-B2"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Tlorisne dimenzije prizidave so neskladne: Priloga 4B navaja 7,50 × 6,00 m, tehnično poročilo pa 7,50 × 6,50 m.",
+   "razvrstitev": [
+    "T6-B2"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v bruto tlorisni površini objekta po prizidavi: v Prilogi 4B je navedena površina 145 m², v tehničnem poročilu in gradbeno-ureditveni situaciji pa 140 m².",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v bruto tlorisni površini objekta po prizidavi: v Prilogi 4B je navedeno 145 m², v Tehničnem poročilu in Gradbeno-ureditveni situaciji pa 140 m².",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Neskladje v bruto tlorisni površini objekta po prizidavi: v Prilogi 4B je navedeno 145 m², v tehničnem poročilu in gradbeno-ureditveni situaciji pa 140 m².",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Notranja neskladnost v bruto tlorisni površini objekta po prizidavi: 145 m² (Priloga 4B) in 140 m² (Tehnično poročilo).",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Notranja neskladnost v bruto tlorisni površini objekta po prizidavi: 145 m² v Prilogi 4B in 140 m² v Tehničnem poročilu.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Skupna bruto tlorisna površina objekta po prizidavi je neskladna: Priloga 4B navaja 145 m², tehnično poročilo navaja 140 m².",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Skupna bruto tlorisna površina objekta po prizidavi je neskladna: Priloga 4B navaja 145 m², tehnično poročilo pa 140 m².",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Zazidana površina po prizidavi v gradbeno-ureditveni situaciji znaša 140 m², kar je neskladno s seštevkom obstoječe BTP (95 m²) in prizidave (45 m² = skupaj 140 m²), hkrati pa Priloga 4B navaja skupno BTP 145 m². Poleg tega je zazidana površina (140 m²) enaka skupni BTP iz tehničnega poročila (140 m²), kar kaže na mešanje pojmov zazidane površine in bruto tlorisne površine med različnimi deli vloge.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Zazidana površina po prizidavi v gradbeno-ureditveni situaciji znaša 140 m², kar je neskladno s skupno bruto tlorisno površino 145 m² iz Priloge 4B (oziroma 140 m² iz tehničnega poročila). Vrednosti si med seboj nasprotujejo in niso usklajene.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Zazidana površina po prizidavi v gradbeno-ureditveni situaciji znaša 140 m², kar je neskladno s skupno bruto tlorisno površino iz Priloge 4B (145 m²) in tehničnega poročila (140 m²); hkrati pa je vrednost 140 m² v situaciji verjetno zamenjana z bruto tlorisno površino namesto z zazidano površino, ki bi morala izhajati iz tlorisnih dimenzij.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Zazidana površina po prizidavi v gradbeno-ureditveni situaciji znaša 140 m², kar je neskladno z vsoto obstoječe BTP (95 m²) in prizidave (45 m² = skupaj 140 m²) le, če gre za BTP, ne pa za zazidano površino, ki bi morala biti manjša ali enaka BTP; hkrati pa je vrednost 140 m² enaka vrednosti skupne BTP iz tehničnega poročila (140 m²), ne pa vrednosti iz Priloge 4B (145 m²). Situacija tako ni usklajena niti s Prilogo 4B niti z logiko zazidane površine.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  },
+  {
+   "vloga": "T6",
+   "opis": "Zazidana površina po prizidavi v gradbeno-ureditveni situaciji znaša 140 m², kar je neskladno z vsoto obstoječe BTP (95 m²) in prizidave (45 m² = skupaj 140 m²) – vrednost sama po sebi ni nujno napačna, vendar je v nasprotju s Prilogo 4B, ki skupno BTP navaja kot 145 m², kar kaže na notranjo nedoslednost podatkov o površinah.",
+   "razvrstitev": [
+    "T6-B3"
+   ]
+  }
+ ]
+}

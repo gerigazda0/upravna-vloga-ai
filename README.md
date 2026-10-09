@@ -43,7 +43,8 @@ React/Vite (frontend) ──HTTP──> FastAPI (backend) ──> LLM (OpenAI / 
 │   ├── ingest.py                # Gradnja vektorske baze iz knowledge_base/
 │   ├── evaluate.py              # Evalvacija posamezne konfiguracije
 │   ├── run_full_experiment.py   # Celoten eksperiment (126 zagonov)
-│   ├── summarize_experiment.py  # Tabele RV2 / RV3 / K1 iz rezultatov
+│   ├── summarize_experiment.py  # Tabele iz samodejnega ujemanja
+│   ├── summarize_vsebinska.py   # Končne tabele iz vsebinske razvrstitve
 │   └── requirements.txt
 ├── frontend/                    # React/Vite aplikacija
 ├── knowledge_base/              # Besedila predpisov (vhod za RAG)
@@ -164,7 +165,25 @@ python evaluate.py --all-configs --runs 3 --no-verbose
 ```
 
 Avtomatsko ujemanje napovedi z referenčno resnico temelji na prekrivanju ključnih
-besed in je okvirno — razpis TP/FP/FN je smiselno preveriti ročno.
+besed in je okvirno — služi le kot prvo sito.
+
+### Končne mere iz diplome (vsebinska razvrstitev)
+
+```bash
+python summarize_vsebinska.py
+```
+
+Samodejno ujemanje se je izkazalo za nezanesljivo v obe smeri (pravilne zaznave z
+drugačno ubeseditvijo je štelo kot FP, nekatere napačne trditve pa kot TP). Zato je
+vsaka različna javljena pomanjkljivost razvrščena po vsebini; razvrstitev je v
+`experiments/vsebinska_razvrstitev.json` (pregledna oblika:
+`experiments/vsebinska_razvrstitev.xlsx`). Skripta iz nje in iz surovih odgovorov v
+`experiments/results.json` izračuna tabele iz poglavja 5 diplome (primerjava modelov,
+vpliv RAG, razčlenitev po vlogah, kontrolna vloga K1) ter okvirne 95-odstotne
+intervale zaupanja. API ključi niso potrebni.
+
+> `summarize_experiment.py` izpiše mere iz samodejnega ujemanja; vrednosti v diplomi
+> izhajajo iz `summarize_vsebinska.py`.
 
 ---
 
